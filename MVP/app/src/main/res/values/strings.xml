@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="login_CAP">LOGIN</string>
+    <string name="user_name">UserName</string>
+    <string name="login_sml">Login</string>
+
+    <string name="to_point">up to a person</string>
+    <string name="one">On point</string>
+    <string name="two">Near with point</string>
+    <string name="three">Not far from the point</string>
+    <string name="four">Far to the point</string>
+    <string name="hello_btn">Let\'s go</string>
+
+    <string name="pars_name">name=</string>
+    <string name="pars_lat">lat=</string>
+    <string name="pars_lon">lon=</string>
+    <string name="pars_photoId">photo_id=</string>
+
+    <string name="hello_main">
+        Hello! \n
+        Please, enter you name.
+    </string>
+    <string name="hint">Username</string>
+
+    <string name="error2">Enter no more 15 symbol</string>
+    <string name="error1">Enter minimum 3 symbol</string>
+    <string name="error">Enter your name</string>
+
+</resources>
